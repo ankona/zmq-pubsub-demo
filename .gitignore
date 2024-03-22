@@ -1,3 +1,10 @@
 .vscode
 **/.DS_Store
 **/__pycache__
+client/
+server/
+certificates/
+**/*.pem
+**/*.csr
+**/*.key
+**/*.key_secret
